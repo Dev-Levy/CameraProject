@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace MAUI_MVVM
+namespace CameraApp
 {
     [Application]
     public class MainApplication : MauiApplication

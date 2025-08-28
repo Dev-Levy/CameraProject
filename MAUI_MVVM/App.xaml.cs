@@ -1,4 +1,4 @@
-﻿namespace MAUI_MVVM
+﻿namespace CameraApp
 {
     public partial class App : Application
     {

@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MAUI_MVVM
+namespace CameraApp
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

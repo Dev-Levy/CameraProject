@@ -1,7 +1,7 @@
-﻿using MAUI_MVVM.ViewModels;
+﻿using CameraApp.ViewModels;
 using Microsoft.Extensions.Logging;
 
-namespace MAUI_MVVM
+namespace CameraApp
 {
     public static class MauiProgram
     {

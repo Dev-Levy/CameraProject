@@ -1,6 +1,6 @@
-﻿using MAUI_MVVM.ViewModels;
+﻿using CameraApp.ViewModels;
 
-namespace MAUI_MVVM
+namespace CameraApp
 {
     public partial class MainPage : ContentPage
     {

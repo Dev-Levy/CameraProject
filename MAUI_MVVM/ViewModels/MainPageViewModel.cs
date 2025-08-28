@@ -1,7 +1,7 @@
 ﻿
 using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace MAUI_MVVM.ViewModels
+namespace CameraApp.ViewModels
 {
     public partial class MainPageViewModel : ObservableObject
     {

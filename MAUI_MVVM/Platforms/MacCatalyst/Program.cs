@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace MAUI_MVVM
+namespace CameraApp
 {
     public class Program
     {
